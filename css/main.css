@@ -330,8 +330,8 @@
      .feature-img {
          display: inline-block;
          max-width: 250px;
-         margin-left: 20px;
-         margin-right: 50px 
+         margin-left: 10px;
+         margin-right: 40px 
     }
      .feature-section {
          line-height: 1;
