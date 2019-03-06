@@ -329,7 +329,7 @@
     }
      .feature-img {
          display: inline-block;
-         width: 92%;
+         max-width: 90%;
          margin-left: 10px;
          margin-right: 50px 
     }
