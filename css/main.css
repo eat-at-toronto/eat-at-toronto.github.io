@@ -324,12 +324,12 @@
          display: none;
     }
      .feature-box {
-         max-width: 90%;
+         max-width: 95%;
          margin: auto;
     }
      .feature-img {
          display: inline-block;
-         max-width: 90%;
+         max-width: 95%;
          margin-left: 10px;
          margin-right: 50px 
     }
