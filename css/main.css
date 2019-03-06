@@ -324,7 +324,7 @@
          display: none;
     }
      .feature-box {
-         width: 100%;
+         max-width: 90%;
          margin: auto;
     }
      .feature-img {
